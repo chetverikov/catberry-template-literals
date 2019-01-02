@@ -1,0 +1,8 @@
+{
+	"title": "Catberry Application",
+	"isRelease": true,
+	"logger": {
+		"level": 40
+	}
+}
+

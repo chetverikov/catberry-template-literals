@@ -1,0 +1,6 @@
+**/node_modules/**
+coverage/**
+node_modules/**
+public
+__BrowserBundle.js
+
